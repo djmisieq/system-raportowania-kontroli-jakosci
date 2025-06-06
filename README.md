@@ -83,11 +83,11 @@ System operuje na następujących obszarach:
 ## Rozwój projektu
 
 Planowane usprawnienia:
-- [ ] Integration z bazą danych
-- [ ] Eksport do Excel/PDF
-- [ ] Zaawansowane raporty
-- [ ] Powiadomienia o przekroczeniach
-- [ ] API dla integracji z innymi systemami
+- Integracja z bazą danych
+- Możliwość eksportu do plików
+- Bardziej rozbudowane raporty
+- Powiadomienia
+- Integracje przez API
 
 ## Wsparcie
 
