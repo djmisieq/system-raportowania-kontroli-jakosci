@@ -40,7 +40,7 @@ System do zarządzania i raportowania pracy działu kontroli jakości. Umożliwi
 
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
 - **Składowanie danych**: LocalStorage
-- **Responsywność**: CSS Grid, Flexbox
+- **Responsywność**: CSS Grid, Flexbox oraz media queries dla urządzeń mobilnych
 - **UI/UX**: Nowoczesny design z gradientami i animacjami
 
 ## Instalacja i uruchomienie
@@ -77,7 +77,7 @@ System operuje na następujących obszarach:
 
 - **Automatyczne obliczenia**: System automatycznie kalkuluje wykorzystanie zasobów
 - **Wizualizacje**: Paski postępu pokazują wykorzystanie w czasie rzeczywistym
-- **Responsywność**: Działa na urządzeniach mobilnych i desktop
+- **Responsywność**: Działa na urządzeniach mobilnych (≤600px) i desktop
 - **Persystencja**: Dane są automatycznie zapisywane w przeglądarce
 
 ## Rozwój projektu
