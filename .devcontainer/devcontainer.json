@@ -1,0 +1,17 @@
+{
+  "name": "Quality Control Reporting System",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "3.11"
+    }
+  },
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": {
+      "label": "System Raportowania",
+      "onAutoForward": "openPreview"
+    }
+  },
+  "postStartCommand": "python3 -m http.server 3000 &"
+}
